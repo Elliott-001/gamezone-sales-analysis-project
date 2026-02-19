@@ -29,5 +29,7 @@ The dashboard includes a dynamic filter by Year allowing for performance analysi
 
 -The nintendo switch accounts for 47.6% of product sales, making it the product with the most quantity of units sold. However it lags       behind the 24inch 4k gaming monitor(product with the most revenue at $1.9M) in terms of revenue generated.
 
+-The direct marketing channel was responsible for over 80% of total sales revenue across the various marketing channels
+
 Live dashboard: 
 https://public.tableau.com/app/profile/osabuohien.eguavoen/viz/gamezonedataviz/gamezoneanalysis
